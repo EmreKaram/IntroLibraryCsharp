@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{9F9D21E7-7FB2-4E5C-AD7C-B6328A1B72FF}</ProjectGuid>
+    <ProjectGuid>{ACF58B8B-9159-4631-80ED-7B0F025B75BE}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>_015_Fonksiyonlar</RootNamespace>
-    <AssemblyName>015-Fonksiyonlar</AssemblyName>
+    <RootNamespace>_020_Foreach</RootNamespace>
+    <AssemblyName>020-Foreach</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -46,14 +46,17 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Functions.cs">
+    <Compile Include="Foreach.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Functions.Designer.cs">
-      <DependentUpon>Functions.cs</DependentUpon>
+    <Compile Include="Foreach.Designer.cs">
+      <DependentUpon>Foreach.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Foreach.resx">
+      <DependentUpon>Foreach.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
