@@ -47,6 +47,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "021-Matematiksel Operatörl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "022-Math Class", "022-Math Class\022-Math Class.csproj", "{ACC9FB5D-3FA9-439D-8228-6363B76673FA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "023-Lab Operatörleri", "023-Lab Operatörleri\023-Lab Operatörleri.csproj", "{98B50175-C126-440C-A22E-AA0EB26CFA3B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "024-Metot Overload", "024-Metot Overload\024-Metot Overload.csproj", "{B29D308A-9180-454D-A88E-8AEDCF435905}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -141,6 +145,14 @@ Global
 		{ACC9FB5D-3FA9-439D-8228-6363B76673FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ACC9FB5D-3FA9-439D-8228-6363B76673FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ACC9FB5D-3FA9-439D-8228-6363B76673FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98B50175-C126-440C-A22E-AA0EB26CFA3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98B50175-C126-440C-A22E-AA0EB26CFA3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98B50175-C126-440C-A22E-AA0EB26CFA3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98B50175-C126-440C-A22E-AA0EB26CFA3B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B29D308A-9180-454D-A88E-8AEDCF435905}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B29D308A-9180-454D-A88E-8AEDCF435905}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B29D308A-9180-454D-A88E-8AEDCF435905}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B29D308A-9180-454D-A88E-8AEDCF435905}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
