@@ -65,6 +65,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "030-RunTime Control", "030-
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "031-Mayın Tarlası App", "031-Mayın Tarlası App\031-Mayın Tarlası App.csproj", "{659455E9-27D0-48FC-A126-D8C127B62595}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "032-Kelime Oyunu App", "032-Kelime Oyunu App\032-Kelime Oyunu App.csproj", "{C4631EB3-EB9D-4C50-AC81-E8E9CCD809D1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -195,6 +197,10 @@ Global
 		{659455E9-27D0-48FC-A126-D8C127B62595}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{659455E9-27D0-48FC-A126-D8C127B62595}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{659455E9-27D0-48FC-A126-D8C127B62595}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4631EB3-EB9D-4C50-AC81-E8E9CCD809D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4631EB3-EB9D-4C50-AC81-E8E9CCD809D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4631EB3-EB9D-4C50-AC81-E8E9CCD809D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4631EB3-EB9D-4C50-AC81-E8E9CCD809D1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
