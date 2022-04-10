@@ -1,11 +1,8 @@
-# Intro C# Kütüphanesi
+# Intro C# Kütüphanesi <code><img height="40" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"></code>
 
 ## C# nedir ?
 
-#### C#, C ve C++ dillerinden türemiş esnek, nesneye yönelimli(oop), orta seviyeli bir programlama dilidir.
-.NET Framework, C# için geliştirilmiş çalıştırma ortamıdır.
-.NET için sıfırdan tasarlanan ve geliştirilen C#, sunucu ve gömülü sistemler için tasarlanmıştır.
-Gelişmiş derleyicisi (debugger) özelliği ile hata olasılığını ortadan kaldırdırarak yazılımcıların işini kolaylaştırıyor.
+#### C#, C ve C++ dillerinden türemiş esnek, nesneye yönelimli(oop), orta seviyeli bir programlama dilidir. .NET Framework, C# için geliştirilmiş çalıştırma ortamıdır. .NET için sıfırdan tasarlanan ve geliştirilen C#, sunucu ve gömülü sistemler için tasarlanmıştır. Gelişmiş derleyicisi (debugger) özelliği ile hata olasılığını ortadan kaldırdırarak yazılımcıların işini kolaylaştırıyor.
 
 
 ## Bu Kütüphanede Aşağıdaki İçerikler Vardır:
